@@ -1,1 +1,3 @@
 # GitTrainingTest
+
+Test commit local.
