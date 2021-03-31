@@ -1,6 +1,1 @@
-merge conclict 1
-asd
-dsad
-sd
-sad
-sadsa
+merge conclict 2
